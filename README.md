@@ -12,5 +12,5 @@ VAEs are trained by optimizing a loss function that balances two objectives:
 
 Applications of VAEs include image generation, data compression, and representation learning in unsupervised settings. They are particularly useful for tasks where generating new data based on learned representations is required.
 
-    
+       
          
