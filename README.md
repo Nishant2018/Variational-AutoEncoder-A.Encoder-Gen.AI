@@ -14,3 +14,4 @@ Applications of VAEs include image generation, data compression, and representat
    
           
          
+   
